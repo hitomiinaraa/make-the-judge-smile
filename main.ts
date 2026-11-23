@@ -1,3 +1,4 @@
+// One line, at most 200 characters.
 // Make the Judge Smile entry (Node 22, standard library only).
 // The line is written verbatim to /output/entry.txt, so both runs of
 // the grader write the same bytes.
